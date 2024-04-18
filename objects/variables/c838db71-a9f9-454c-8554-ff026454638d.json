@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "c838db71-a9f9-454c-8554-ff026454638d",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "vSinFiltrosPCPLineasPredef",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "{<Linea={'LosChangos500->Cumbres500','Cumbres500->NvaCardones500','NvaMaitenc500->NvaCardones500','NvaPAzucar500->NvaMaitenc500','NvaPAzucar500->Polpaico500_I','NvaPAzucar500->Polpaico500_II','Ancoa500->AJahuel500','Charrua500->Ancoa500', 'EntreRios500->Ancoa500', 'EntreRios500->Charrua500'},fuente={'PCP'},hidro,bloque,etapa,fecha_hora_version>}",
+  "tags": []
+}
